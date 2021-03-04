@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exterminator</string>
+    <string name="exterminator">Exterminator</string>
+    <string name="start">Start</string>
+    <string name="highscore">Highscore</string>
+    <string name="Continue">Continue</string>
+    <string name="about">About</string>
+    <string name="todo">TODO</string>
+    <string name="life">Life: </string>
+    <string name="enemy_hp">Enemy Hp: </string>
+    <string name="points">Score: </string>
+</resources>

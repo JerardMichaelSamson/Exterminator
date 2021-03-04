@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/room1"
+    tools:context=".Room1">
+    
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/target1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target2"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target3"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target4"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@string/todo"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly" />
+
+        <ImageView
+            android:id="@+id/target5"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target6"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target7"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:paddingTop="200dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/target8"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target9"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target10"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target11"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target12"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target13"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target14"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:paddingBottom="200dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/target15"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target16"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target17"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target18"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target19"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target20"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/target21"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/fly"
+            android:contentDescription="@string/todo" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/start"
+        android:textSize="40sp"
+        android:textColor="#000000"
+        android:background="@android:color/transparent"
+        />
+
+    <TextView
+        android:text="@string/points"
+        android:textSize="30sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/tv_life"
+        android:paddingLeft="20dp"
+        android:paddingRight="50dp"
+        android:textColor="#FFFFFF"
+        android:id="@+id/tv_score"
+        android:layout_toEndOf="@+id/tv_life"
+        android:paddingStart="20dp"
+        android:paddingEnd="50dp" />
+
+    <TextView
+        android:text="@string/life"
+        android:textSize="30sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:paddingLeft="20dp"
+        android:paddingRight="50dp"
+        android:textColor="#FFFFFF"
+        android:id="@+id/tv_life"
+        android:paddingStart="10dp"
+        android:paddingEnd="50dp" />
+
+    <TextView
+        android:text="@string/enemy_hp"
+        android:textSize="30sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:textColor="#FFFFFF"
+        android:id="@+id/tv_Hp"
+        android:layout_toEndOf="@id/tv_score"
+        android:layout_toRightOf="@id/tv_score"
+        android:paddingStart="10dp" />
+
+    <Button
+        android:background="Back"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/back"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
